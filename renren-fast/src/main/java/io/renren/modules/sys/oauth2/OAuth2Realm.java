@@ -8,6 +8,7 @@
 
 package io.renren.modules.sys.oauth2;
 
+
 import io.renren.modules.sys.entity.SysUserEntity;
 import io.renren.modules.sys.entity.SysUserTokenEntity;
 import io.renren.modules.sys.service.ShiroService;
